@@ -9,13 +9,13 @@ body{
     background-color: #202124;
 }
 
-@media (min-width: 600px){
+@media (min-width: 801px){
     .hide{
         display: contents;
     }     
 }
 
-@media (max-width: 599px){
+@media (max-width: 800px){
     .hide{
         display: none;
     }
