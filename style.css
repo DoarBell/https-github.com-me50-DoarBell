@@ -10,6 +10,16 @@
     padding-top: 20px;
 }
 
+.beatext{
+    border-radius: 25px; 
+    width: 600px; 
+    height: 50px; 
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
 .search_eng{
     display: flex;
     flex-direction: column;
